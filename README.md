@@ -1,5 +1,5 @@
-# math-algorithms
-This repository is destined to create algorithms based in maths theorems, counter examples, etc...
+# Architecture to write a Book in LaTeX
+This repository is destined to the who want a simple architecture to write a book using LaTeX.
 
 ## Project Structure
 
