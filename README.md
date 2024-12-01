@@ -1,6 +1,31 @@
 # math-algorithms
 This repository is destined to create algorithms based in maths theorems, counter examples, etc...
 
+## Project Structure
+
+    discrete-math/
+    │
+    ├── main.tex
+    ├── capitulo1/
+    │   ├── pacotes1.tex
+    │   ├── secao1/
+    │   │   └── secao1.tex
+    │   └── secao2/
+    │       └── secao2.tex
+    ├── capitulo2/
+    │   ├── pacotes2.tex
+    │   ├── secao1/
+    │   │   └── secao1.tex
+    │   └── secao2/
+    │       └── secao2.tex
+    └── capitulo3/
+        ├── pacotes3.tex
+        ├── secao1/
+        │   └── secao1.tex
+        └── secao2/
+            └── secao2.tex
+
+
 ## Packages Instalations and Extensions:
 
 - LaTeX Workshop
