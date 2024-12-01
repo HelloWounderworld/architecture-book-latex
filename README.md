@@ -3,7 +3,7 @@ This repository is destined to the who want a simple architecture to write a boo
 
 ## Project Structure
 
-    discrete-math/
+    architecture-book-latex/
     │
     ├── references1.bib
     ├── references2.bib
