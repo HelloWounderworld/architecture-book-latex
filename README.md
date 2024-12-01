@@ -1,2 +1,16 @@
 # math-algorithms
 This repository is destined to create algorithms based in maths theorems, counter examples, etc...
+
+## Packages Instalations and Extensions:
+
+- LaTeX Workshop
+
+## References:
+
+1. [Tutorial to make environment LaTex in your vscode][1]
+2. [MikTex][2]
+3. [Strawberryperl][3]
+
+[1]: https://www.youtube.com/watch?v=4lyHIQl4VM8
+[2]: https://miktex.org/download
+[3]: https://strawberryperl.com/
