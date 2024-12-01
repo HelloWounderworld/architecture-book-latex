@@ -5,26 +5,21 @@ This repository is destined to create algorithms based in maths theorems, counte
 
     discrete-math/
     │
+    ├── references1.bib
+    ├── references2.bib
     ├── main.tex
-    ├── capitulo1/
-    │   ├── pacotes1.tex
+    ├── chapter1/
+    │   ├── chapter1.tex
     │   ├── secao1/
     │   │   └── secao1.tex
     │   └── secao2/
     │       └── secao2.tex
-    ├── capitulo2/
-    │   ├── pacotes2.tex
+    ├── chapter2/
+    │   ├── chapter2.tex
     │   ├── secao1/
     │   │   └── secao1.tex
     │   └── secao2/
     │       └── secao2.tex
-    └── capitulo3/
-        ├── pacotes3.tex
-        ├── secao1/
-        │   └── secao1.tex
-        └── secao2/
-            └── secao2.tex
-
 
 ## Packages Instalations and Extensions:
 
